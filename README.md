@@ -8,6 +8,7 @@ I am a highly ambitious and hard-working Software Engineer with a passion for cr
 ## Education 🏫
 University of Westminster | SEP 2015 – JULY 2019
 Bachelor of Science in Computer Science, 1st Class Honours
+
 Dissertation: "A Visual Analysis of Student Commute Length, Attendance and Performance at University".
 
 ## Experience 🏫
