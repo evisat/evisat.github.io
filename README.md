@@ -1,5 +1,5 @@
 
-# Evisa Terziu
+# Evisa Terziu <img width="50px" height="50px" style="padding:0; margin-right: 10px;" src="https://evisaterziu.com/img/logo_Evisa_large.e4563639.svg" alt="Evisa Terziu Logo"/>
 [Portfolio](https://evisaterziu.com/) | [Github](https://github.com/evisat) | [Linkedin](https://www.linkedin.com/in/evisaterziu/)
 
 ## Summary
