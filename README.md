@@ -11,7 +11,7 @@ Bachelor of Science in Computer Science, 1st Class Honours
 
 Dissertation: "A Visual Analysis of Student Commute Length, Attendance and Performance at University".
 
-## Experience 🏫
+## Experience 👩‍💻
 ### BBC News - Visual Journalism | AUGUST 2019 - PRESENT
 **Software Engineer**
 
