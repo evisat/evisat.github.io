@@ -9,19 +9,19 @@ I am a highly ambitious and hard-working Software Engineer with a passion for cr
 University of Westminster | SEP 2015 – JULY 2019
 Bachelor of Science in Computer Science, 1st Class Honours
 
-Dissertation: "A Visual Analysis of Student Commute Length, Attendance and Performance at University".
+Dissertation: ["A Visual Analysis of Student Commute Length, Attendance and Performance at University"](https://evisat.github.io/6COSC006W-data-vis/dist/index.html).
 
 ## Experience 👩‍💻
-### BBC News - Visual Journalism | AUGUST 2019 - PRESENT
-**Software Engineer**
+### Masabi | APRIL 2021 - PRESENT
+**Front-End Engineer**
 
-Creating interactive web applications aimed at simplifying complex data for users worldwide. Delivering responsive, cross-browser compatible and accessibility compliant web applications ranging from the local UK news topics to worldwide data projects.
+Contributed to the development and maintenance of an agency-facing SaaS web app, enhancing features, performance, and overall user experience.
 
-Collaborating directly with designers, product manager, and journalists to prioritise and implement features in a project workflow. Translating UI/ UX design wireframes into code while delivering high quality, reusable code using JavaScript, HTML, SCSS and Webpack. Assisting the UX designers to ensure that features proposed in the wireframes can be produced during development.
+Advocated for the importance of accessibility within the team, promoting awareness and knowledge sharing to foster a culture of inclusivity. Conducted manual accessibility testing to validate and refine the user interface, ensuring a seamless experience for users with diverse needs.
 
-Leading development of projects, including on high-profile elections (UK General elections and US presidential elections), which were under tight deadlines. Working simultaneously with the testers and ensuring timely turnaround and documentation of bug fixes during the testing phase.
+Led project discussions as Interim Pod Lead, organising meetings and supporting team optimisation.
 
-Leading interviews for prospective junior developers whilst also mentoring and guiding new software developers during their introduction into the team. Leading on supporting the team's well-being, especially during the Covid-19 pandemic whilst the team was permanently working from home. In particular, I lead team meetings that were focused on encouraging colleagues to take proactive steps in looking after their well-being, which improved productivity and morale across the team.
+Provided guidance to team members interested in front-end development careers, offering mentorship and insights.
 
 ### Albanian Post | SEPTEMBER 2018 - PRESENT
 **Designer**
@@ -35,11 +35,20 @@ Designed for specific public holidays celebrated by the Albanian community, such
 ### evisaterziu.com | 2018 - PRESENT
 **Freelance Web Developer**
 
-Designed and developed websites for clients such as https://exquisitedreamscape.co.uk/ where I worked with a university student who was keen on creating a website that would visualise a database of artwork (dreams). Developed this website using the JavaScript framework Vue.js, which I self-learned whilst completing this project.
-
 Worked directly with Wix.com to design and develop https://www.fjalaelire.com/. Communicating effectively with the client to understand the needs of the users. Providing SEO enhancements for article pages to be widely reached.
 
 When working with clients, I focus on responsiveness, cross-browser support, and usability, ensuring all users can freely access the functionalities of the website, regardless of their requirements.
+
+### BBC News - Visual Journalism | AUGUST 2019 - APRIL 2021
+**Software Engineer**
+
+Creating interactive web applications aimed at simplifying complex data for users worldwide. Delivering responsive, cross-browser compatible and accessibility compliant web applications ranging from the local UK news topics to worldwide data projects.
+
+Collaborating directly with designers, product manager, and journalists to prioritise and implement features in a project workflow. Translating UI/ UX design wireframes into code while delivering high quality, reusable code using JavaScript, HTML, SCSS and Webpack. Assisting the UX designers to ensure that features proposed in the wireframes can be produced during development.
+
+Leading development of projects, including on high-profile elections (UK General elections and US presidential elections), which were under tight deadlines. Working simultaneously with the testers and ensuring timely turnaround and documentation of bug fixes during the testing phase.
+
+Leading interviews for prospective junior developers whilst also mentoring and guiding new software developers during their introduction into the team. Leading on supporting the team's well-being, especially during the Covid-19 pandemic whilst the team was permanently working from home. In particular, I lead team meetings that were focused on encouraging colleagues to take proactive steps in looking after their well-being, which improved productivity and morale across the team.
 
 ### BBC News - Visual Journalism | SEPTEMBER 2018 - AUG 2019
 **Junior Software Engineer**
